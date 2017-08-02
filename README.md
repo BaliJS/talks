@@ -28,7 +28,17 @@ Make sure you fill out the following information:
 
 # Things to think about
 
+Have a read through [this slide deck](http://www.slideshare.net/LookAtMySlides/codeware). It's a very good overview of how to design a good slidedeck for a technical presentation.
+
 ## Slides
+
+* Use very large fonts and less text per screen so your slide is legible at the back of the room
+
+* If you have code examples, we suggest you make them take up the entire screen with as large a font as possible
+
+* Minimise the use of code examples and bullet points as they will be hard to read
+
+* If you want to demo something, consider using a screen capture movie or gif. [licecap](http://www.cockos.com/licecap) is a tool that can help with this.
 
 ## Speaking
 
