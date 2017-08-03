@@ -44,4 +44,4 @@ Have a read through [this slide deck](http://www.slideshare.net/LookAtMySlides/c
 
 ## Livecoding
 
-There should be an internet connection at the place of our meetups, but sometimes the connection is not really stable. So we suggest that you download library,framework,npm package,etc before your talks session start.
+There should be an internet connection at the place of our meetups, but sometimes the connection is not really stable. So we suggest that you download library,framework,npm package,etc before your talks sessions start.
