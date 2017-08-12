@@ -14,9 +14,9 @@ Check out the talk dates below, the theme for that date, and the suggested topic
 Once you've got a talk idea, open a new Issue by [clicking here](https://github.com/balijs/talks/issues/new).
 
 _Alternatively_, if you're uncomfortable posting your idea publicly, you can message us directly: @tvalentius @adisetiawan @ykurniawan @rezaprimasatya @wayanjimmy on BaliJS slack group or on other channels here :
-[**Slack**](https://balijs.herokuapp.com)
-[**Facebook**](https://www.facebook.com/BaliJS/)
-[**Meetup**](https://www.meetup.com/balijs/)
+* [**Slack**](https://balijs.herokuapp.com)
+* [**Facebook**](https://www.facebook.com/BaliJS/)
+* [**Meetup**](https://www.meetup.com/balijs/)
 
 Make sure you fill out the following information:
 
