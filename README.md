@@ -13,12 +13,14 @@ Check out the talk dates below, the theme for that date, and the suggested topic
 
 Once you've got a talk idea, open a new Issue by [clicking here](https://github.com/balijs/talks/issues/new).
 
-_Alternatively_, if you're uncomfortable posting your idea publicly, you can message us directly: @tvalentius @adisetiawan @ykurniawan @rezaprimasatya @wayanjimmy on BaliJS slack group
-[**https://balijs.herokuapp.com**](https://balijs.herokuapp.com)
+_Alternatively_, if you're uncomfortable posting your idea publicly, you can message us directly: @tvalentius @adisetiawan @ykurniawan @rezaprimasatya @wayanjimmy on BaliJS slack group or on other channels here :
+[**Slack**](https://balijs.herokuapp.com)
+[**Facebook**](https://www.facebook.com/BaliJS/)
+[**Meetup**](https://www.meetup.com/balijs/)
 
 Make sure you fill out the following information:
 
-* Talk Date
+* Talk Date 
 * Talk Title
 * Length
 * Twitter-sized Overview (140 characters)
@@ -39,8 +41,6 @@ Have a read through [this slide deck](http://www.slideshare.net/LookAtMySlides/c
 * Minimise the use of code examples and bullet points as they will be hard to read
 
 * If you want to demo something, consider using a screen capture movie or gif. [licecap](http://www.cockos.com/licecap) is a tool that can help with this.
-
-## Speaking
 
 ## Livecoding
 
