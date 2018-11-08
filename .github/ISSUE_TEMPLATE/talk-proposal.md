@@ -10,6 +10,6 @@ about: Propose talk for BaliJS meetup
 
 **Length (e.g. 30 minutes)**
     
-**Twitter-sized Overview (140 characters)**
+**Overview (140 characters)**
     
 **Detailed Overview**
