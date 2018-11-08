@@ -11,7 +11,7 @@ After each meetup, we (or the speaker) will update issues with slides, links, an
 
 Check out the talk dates below, the theme for that date, and the suggested topics.
 
-Once you've got a talk idea, open a new Issue by [clicking here](https://github.com/balijs/talks/issues/new).
+Once you've got a talk idea, open a new Issue by [clicking here](https://github.com/BaliJS/talks/issues/new?template=talk-proposal.md).
 
 _Alternatively_, if you're uncomfortable posting your idea publicly, you can message us directly: @tvalentius @adisetiawan @ykurniawan @rezaprimasatya @wayanjimmy @teofiluscandra @satyakresna on BaliJS slack group or on other channels here :
 * [**Slack**](https://balijs.herokuapp.com)
