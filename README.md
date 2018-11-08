@@ -23,7 +23,7 @@ Make sure you fill out the following information:
 * Talk Date 
 * Talk Title
 * Length
-* Twitter-sized Overview (140 characters)
+* Overview (140 characters)
 * Detailed Overview
 
 [**Submit your talk now**](https://github.com/balijs/talks/issues/new)
